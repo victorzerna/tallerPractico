@@ -1,0 +1,3 @@
+rootProject.name = 'tallerPractico'
+
+include ':app'
